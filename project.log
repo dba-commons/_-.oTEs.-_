@@ -1,16 +1,12 @@
-save ]sources[
-
-format ]<Author>, <Title>, <?Editor?>, URL = <URL>[ https://plato.stanford.edu/cite.html
-     e-] Malpas, J., “Donald Davidson”, The Stanford Encyclopedia of Philosophy (Winter 2012 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2012/entries/davidson/>. 
-     e0] URL: https://plato.stanford.edu/archives/win2012/entries/davidson/
-     e0] XMLNS: http://www.w3.org/1999/xhtml
-     e0] OBJECTS: Title|T, Citation_Title|CT, Citation_Author|CA, Citation_Publication_Date|CPD 
-     e+] T: Donald Davidson (Stanford Encyclopedia of Philospophy/Winter 2012 Edition)
-     e+] CT: Donald Davidson
-     e+] CA: Malpas, Jeff
-     e+] CPD: 1996.05.29
-  
-  
+save ]sources[ Format: <Author>, <Title>, <?Editor?>, URL = <URL>[ https://plato.stanford.edu/cite.html
+     -] Malpas, J., “Donald Davidson”, The Stanford Encyclopedia of Philosophy (Winter 2012 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2012/entries/davidson/>. 
+     0] URL: https://plato.stanford.edu/archives/win2012/entries/davidson/
+     0] XMLNS: http://www.w3.org/1999/xhtml
+     0] OBJECTS: Title|T, Citation_Title|CT, Citation_Author|CA, Citation_Publication_Date|CPD 
+     +] T: Donald Davidson (Stanford Encyclopedia of Philospophy/Winter 2012 Edition)
+     +] CT: Donald Davidson
+     +] CA: Malpas, Jeff
+     +] CPD: 1996.05.29
 ͽ[ https://plato.stanford.edu/
 ͽ[ https://plato.stanford.edu/cite.html
 ͽ[ http://mally.stanford.edu/zalta.html
